@@ -1,7 +1,7 @@
-Ionic App Base
+InterSense - Air Quality Based Routing
 =====================
 
-A starting project for Ionic that optionally supports using custom SCSS.
+At IDEA Hacks 2016, we created a system of arduino based gas sensors to relay real time data on different pollutant levels. This data was relayed through wifi to our servers. The data on these servers was then read and analyzed to give a pollution "score" to every sensor. Through IntraSense, we present this data on maps using the Google Maps API and also allow you to plan a walking/cycling route according to the pollution levels. 
 
 ## Using this project
 
