@@ -1,0 +1,47 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	background: #2b3e50;
+}
+
+#header {
+	padding-top: 5px;
+	color: #77e1ee;
+	font-size: 220%;
+	background-color: #2b3e50;
+	text-align: center;
+}
+
+#map {
+	height: 71%;
+	text-align: center;
+	background-color: #2b3e50;
+}
+
+.form-horizontal, .form-group {
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #(2b3e50);
+
+}
+
+#from-input, #destination-input, .center {
+	margin-bottom: 5px;
+	margin-left:3px;
+	padding-left: 7px;
+	font-size: 110%;
+	text-align: center;
+	color: #f27500;
+	border-color: #e87e03;
+	background: #2b3e50;
+}
+
+.img {
+	height:48px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
